@@ -1,7 +1,7 @@
 <head>
     <meta charset="utf-8">
     <title>Threadsnake</title>
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.2.0/styles/vs2015.min.css">
-    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.2.0/highlight.min.js"></script>
+    <link rel="stylesheet" href="styles/highlight.css">
+    <script src="scripts/highlight.js"></script>
     <script>hljs.highlightAll();</script>
 </head>
