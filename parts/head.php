@@ -1,5 +1,4 @@
 <head>
-    
     <meta charset="utf-8">
     <title>Threadsnake</title>
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.2.0/styles/default.min.css">
